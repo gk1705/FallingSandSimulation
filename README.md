@@ -20,5 +20,9 @@ A Falling Sand Simulation is a particle simulation game that illustrates dynamic
 ## Dependencies and External Libraries:
 * **SFML:**
 	- Headers and libraries used for creating windows, handling events, and rendering the image.
+* **Imgui:**
+	- Used to display the User Interface.
+* **stb_image.h:**
+	- Used to decompress the tool image files for further use in Imgui.
 * **Visual Studio:**
 	- Project is set up to be developed with Microsoft Visual Studio.
